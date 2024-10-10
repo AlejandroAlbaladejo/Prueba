@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: 8be9c17e617d5f04aab1bf60474fd057
+  - enabled: 1
+    path: Assets/Scenes/Snake II Ahora es Personal.unity
+    guid: 5ef7a2ac7d7b1cf4e9d1308e878e098d
+  m_configObjects: {}
